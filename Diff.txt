@@ -1,2 +1,3 @@
 diff java
-new line 2 added
+new line 2 addedd
+new line 3 added
